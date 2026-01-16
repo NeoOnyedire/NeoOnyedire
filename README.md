@@ -40,7 +40,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeoOnyedire&theme=radical&hide_border=true" alt="streak stats" />
 </div>
 
 <br/>
@@ -59,7 +59,7 @@
 
 <div align="center">
   <h3>Thanks for stopping by! Let's build something awesome together 🚀</h3>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00C853" alt="profile-views"/>
+  <img src="https://komarev.com/ghpvc/?username=NeoOnyedire&style=flat-square&color=00C853" alt="profile-views"/>
 </div>
 
 ---
