@@ -33,8 +33,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-yourname.vercel.app/api?username=NeoOnyedire&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-<img src="https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=NeoOnyedire&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats-seven-chi-94.vercel.app/api?username=NeoOnyedire&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats-seven-chi-94.vercel.app/api/top-langs/?username=NeoOnyedire&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
 
 <br/>
