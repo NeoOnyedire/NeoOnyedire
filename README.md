@@ -40,7 +40,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeoOnyedire&theme=radical&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=NeoOnyedire&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
