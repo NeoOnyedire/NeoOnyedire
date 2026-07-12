@@ -12,7 +12,7 @@
 <br/>
 
 ### 🚀 About Me
-- 🎓 Current student at **WeThinkCode_** — learning how to code the future from Johannesburg, South Africa
+- 🎓 **WeThinkCode_** Alumni
 - 💻 Junior developer constantly building websites, apps & solving problems
 - 🌱 Currently leveling up: Full-stack development, clean code practices & system design
 - 🎯 Goal: Write code that makes life easier & more beautiful for people
