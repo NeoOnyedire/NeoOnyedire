@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there! I'm Neo Onyedire 👋</h1>
-  <h3>Aspiring Full-Stack Developer | WeThinkCode_ Student</h3>
+  <h3>Full-Stack Developer | WeThinkCode_ Alumni | Systems Intergration</h3>
 </div>
 
 <br/>
